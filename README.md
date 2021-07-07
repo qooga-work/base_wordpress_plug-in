@@ -1,0 +1,1 @@
+# base_wordpress_plug-in
